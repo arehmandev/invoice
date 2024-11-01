@@ -1,0 +1,31 @@
+# Company Details
+from_company:
+  name: "EXAMPLE LIMITED"
+  street: "22 Example Lane"
+  city: "London"
+  postcode: "XXXXXX"
+  vat_number: "123456"
+
+to_company:
+  name: "X Engineering Limited"
+  street: "51 X Road"
+  city: "London"
+  postcode: "XXXXXX"
+  vat_number: "78911011"
+
+# Bank Details
+bank:
+  name: "[BANK NAME]"
+  account_name: "X LIMITED"
+  sort_code: "12-34-56"
+  account_number: "12345678"
+
+# Business Rules
+business:
+  vat_rate: 0.20
+  daily_rate: 100.00
+  payment_terms_days: 65
+
+# Styling
+style:
+  primary_color: "#ff6b35"

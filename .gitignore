@@ -1,0 +1,4 @@
+config.yaml
+invoice
+*.pdf
+!example_generated.pdf
